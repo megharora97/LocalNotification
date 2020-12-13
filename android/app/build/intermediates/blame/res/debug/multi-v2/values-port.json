@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/megha/PROJECT/RNnotifications-demo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/megha/.gradle/caches/transforms-2/files-2.1/36661c95a6e3d4335f6e2c815feb089d/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
